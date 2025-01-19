@@ -111,7 +111,7 @@ function Header() {
               })}
             >
               <VuiTypography variant="lg" color="white" fontWeight="bold">
-                M Raza
+                Muhammad Raza
               </VuiTypography>
               <VuiTypography variant="button" color="text" fontWeight="regular">
                 mark@simmmple.com

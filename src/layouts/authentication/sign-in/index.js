@@ -100,7 +100,7 @@ function SignIn() {
             SIGN IN
           </VuiButton>
         </VuiBox>
-        <VuiBox mt={3} textAlign="center">
+        {/* <VuiBox mt={3} textAlign="center">
           <VuiTypography variant="button" color="text" fontWeight="regular">
             Don&apos;t have an account?{" "}
             <VuiTypography
@@ -113,7 +113,7 @@ function SignIn() {
               Sign up
             </VuiTypography>
           </VuiTypography>
-        </VuiBox>
+        </VuiBox> */}
       </VuiBox>
     </CoverLayout>
   );
