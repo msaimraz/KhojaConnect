@@ -1,4 +1,4 @@
-# [Vision UI Free React](https://demos.creative-tim.com/vision-ui-dashboard-react) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vision-ui-dashboard-react&text=Check%20Vision%20UI%20Dashboard%20made%20by%20@simmmple_web%20and%20@CreativeTim%20#webdesign%20#dashboard%20#react)
+# [Khoja Connect](https://demos.creative-tim.com/vision-ui-dashboard-react) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vision-ui-dashboard-react&text=Check%20Vision%20UI%20Dashboard%20made%20by%20@simmmple_web%20and%20@CreativeTim%20#webdesign%20#dashboard%20#react)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vision-ui-dashboard-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/vision-ui-dashboard-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/vision-ui-dashboard-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/vision-ui-dashboard-react/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -6,13 +6,13 @@
 
 Most trendiest, complex and innovative Free Dashboard Made by [Simmmple](https://simmmple.com?ref=readme-vudreact) & [Creative Tim](https://creative-tim.com/?ref=readme-vudreact). Check our latest Free ReactJS Dashboard.
 
-Designed for those who like modern UI elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Vision UI Dashboard React is ready to help you create stunning websites and webapps.
+Designed for those who like modern UI elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Khoja Connect is ready to help you create stunning websites and webapps.
 
 We created many examples for pages like Sign In, Profile and so on. Just choose between a Basic Design, an illustration or a cover and you are good to go!
 
 **Fully Coded Elements**
 
-Vision UI Dashboard React is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using MUI's style props.
+Khoja Connect is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using MUI's style props.
 
 You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Free MUI Dashboard is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
@@ -25,7 +25,7 @@ You can read more about the <a href="https://www.creative-tim.com/learning-lab/r
 
 **Example Pages**
 
-If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. Every page is spaced well, with attractive layouts and pleasing shapes. From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Vision UI Dashboard Free React has everything you need to quickly set up an amazing project.
+If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. Every page is spaced well, with attractive layouts and pleasing shapes. From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Khoja Connect has everything you need to quickly set up an amazing project.
 
 View <a href="https://demos.creative-tim.com/vision-ui-dashboard-react?ref=readme-vudreact" target="_blank">example pages here</a>.
 
@@ -49,7 +49,7 @@ Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
-- [Vision UI Dashboard Free React](https://demos.creative-tim.com/vision-ui-dashboard-react/?ref=readme-vudreact)
+- [Khoja Connect](https://demos.creative-tim.com/vision-ui-dashboard-react/?ref=readme-vudreact)
 - [Table of Contents](#table-of-contents)
 - [Versions](#versions)
 - [Demo](#demo)
@@ -70,7 +70,7 @@ Let us know your thoughts below. And good luck with development!
 
 | React | Chakra |
 | ]------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Vision UI Dashboard Free React](https://i.ibb.co/RYKtQ4M/vision-ui-free-react-ct.png)](https://www.creative-tim.com/product/vision-ui-dashboard-react?ref=readme-vudreact) | [![Vision UI Dashboard Free Chakra](https://i.ibb.co/kg5mNxm/vision-ui-free-chakra-ct.png)](https://www.creative-tim.com/product/vision-ui-dashboard-chakra?ref=readme-vudreact) |
+| [![Khoja Connect](https://i.ibb.co/RYKtQ4M/vision-ui-free-react-ct.png)](https://www.creative-tim.com/product/vision-ui-dashboard-react?ref=readme-vudreact) | [![Khoja Connect Dashboard Free Chakra](https://i.ibb.co/kg5mNxm/vision-ui-free-chakra-ct.png)](https://www.creative-tim.com/product/vision-ui-dashboard-chakra?ref=readme-vudreact) |
 
 ## Demo
 
@@ -95,7 +95,7 @@ Quick start options:
 
 ## Documentation
 
-The documentation for the Vision UI Dashboard Free is hosted at our [website](https://www.creative-tim.com/learning-lab/react/overview/vision-ui-dashboard/?ref=readme-vudreact).
+The documentation for the Khoja Connect Dashboard Free is hosted at our [website](https://www.creative-tim.com/learning-lab/react/overview/vision-ui-dashboard/?ref=readme-vudreact).
 
 ## File Structure
 
@@ -387,9 +387,9 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Vision UI Dashboard. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Khoja Connect Dashboard. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Vision UI Dashbaord. Check the CHANGELOG from your dashboard on our [CHANGE LOG File](https://github.com/creativetimofficial/vision-ui-dashboard-react/blob/main/CHANGELOG.md?ref=readme-vudreact).
+1. Make sure that you are using the latest version of the Khoja Connect Dashbaord. Check the CHANGELOG from your dashboard on our [CHANGE LOG File](https://github.com/creativetimofficial/vision-ui-dashboard-react/blob/main/CHANGELOG.md?ref=readme-vudreact).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 

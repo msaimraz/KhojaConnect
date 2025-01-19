@@ -1,39 +1,23 @@
-/*!
 
-=========================================================
-* Vision UI Free React - v1.0.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/vision-ui-free-react
-* Copyright 2021 Creative Tim (https://www.creative-tim.com/)
-* Licensed under MIT (https://github.com/creativetimofficial/vision-ui-free-react/blob/master LICENSE.md)
-
-* Design and Coded by Simmmple & Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 
 // prop-types is a library for typechecking of props
 import PropTypes from "prop-types";
 
-// Vision UI Dashboard React components
+// Khoja Connect components
 import VuiBox from "components/VuiBox";
 import VuiTypography from "components/VuiTypography";
 
-// Vision UI Dashboard React example components
+// Khoja Connect example components
 import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 import PageLayout from "examples/LayoutContainers/PageLayout";
 
 // Authentication layout components
 import Footer from "layouts/authentication/components/Footer";
 
-// Vision UI Dashboard React theme functions
+// Khoja Connect theme functions
 import colors from "assets/theme/base/colors";
 
-// Vision UI Dashboard React theme functions
+// Khoja Connect theme functions
 import tripleLinearGradient from "assets/theme/functions/tripleLinearGradient";
 
 function CoverLayout({
@@ -61,8 +45,8 @@ function CoverLayout({
       <DefaultNavbar
         action={{
           type: "external",
-          route: "https://creative-tim.com/product/vision-ui-dashboard-pro-react",
-          label: "BUY NOW",
+          route: "https://www.canva.com/design/DAGckrMhYgU/PuboSIt02F-wDaL6GvpbEA/view?utm_content=DAGckrMhYgU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7f20be7bf4",
+          label: "Demo",
         }}
       />
       <VuiBox

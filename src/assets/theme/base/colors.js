@@ -1,7 +1,7 @@
 /** 
 
 =========================================================
-* Vision UI  React - v1.0.0
+* Khoja Connect React - v1.0.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/vision-ui-pro-react
@@ -16,13 +16,13 @@
 */
 
 /**
- * The base colors for the Vision UI Dashboard  Material.
+ * The base colors for the Khoja Connect.
  * You can add new color using this file.
- * You can customized the colors for the entire Vision UI Dashboard  Material using thie file.
+ * You can customized the colors for the entire Khoja Connect using thie file.
  */
 
 export default {
-  // Vision UI Colors
+  // Khoja ConnectColors
   background: {
     default: "#f8f9fa",
   },

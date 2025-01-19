@@ -1,20 +1,4 @@
-/*!
 
-=========================================================
-* Vision UI Free React - v1.0.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/vision-ui-free-react
-* Copyright 2021 Creative Tim (https://www.creative-tim.com/)
-* Licensed under MIT (https://github.com/creativetimofficial/vision-ui-free-react/blob/master LICENSE.md)
-
-* Design and Coded by Simmmple & Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 
 // @mui material components
 import Grid from "@mui/material/Grid";
@@ -26,7 +10,7 @@ import InstagramIcon from "@mui/icons-material/Instagram";
 import PinterestIcon from "@mui/icons-material/Pinterest";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 
-// Vision UI Dashboard React components
+// Khoja Connect components
 import VuiBox from "components/VuiBox";
 import VuiTypography from "components/VuiTypography";
 
@@ -49,7 +33,7 @@ function Footer() {
             sx={{ textAlign: "center", fontWeight: "400 !important" }}
             color="text"
           >
-            @ 2021, Made with ❤️&nbsp;&nbsp;&nbsp; by{" "}
+            @ 2025, Made with ❤️&nbsp;&nbsp;&nbsp; by{" "}
             <VuiTypography
               component="a"
               variant="button"
@@ -58,24 +42,11 @@ function Footer() {
               color="text"
               mr="2px"
             >
-              Simmmple
+              Khoja Connect
             </VuiTypography>
-            &
-            <VuiTypography
-              ml="2px"
-              mr="2px"
-              component="a"
-              variant="button"
-              href="#"
-              sx={{ textAlign: "center", fontWeight: "500 !important" }}
-              color="text"
-            >
-              Creative Tim
-            </VuiTypography>
-            for a better web
           </VuiTypography>
         </Grid>
-        <Grid item xs={10}>
+        {/* <Grid item xs={10}>
           <VuiBox display="flex" justifyContent="center" flexWrap="wrap" mb={3}>
             <VuiBox mr={{ xs: "20px", lg: "46px" }}>
               <VuiTypography component="a" href="#" variant="body2" color="text">
@@ -93,7 +64,7 @@ function Footer() {
               </VuiTypography>
             </VuiBox>
           </VuiBox>
-        </Grid>
+        </Grid> */}
       </Grid>
     </VuiBox>
   );

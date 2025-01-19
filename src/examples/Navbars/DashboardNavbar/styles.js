@@ -1,20 +1,4 @@
-/*!
 
-=========================================================
-* Vision UI Free React - v1.0.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/vision-ui-free-react
-* Copyright 2021 Creative Tim (https://www.creative-tim.com/)
-* Licensed under MIT (https://github.com/creativetimofficial/vision-ui-free-react/blob/master LICENSE.md)
-
-* Design and Coded by Simmmple & Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 
 function navbar(theme, ownerState) {
   const { palette, boxShadows, functions, transitions, breakpoints, borders } = theme;
@@ -33,10 +17,10 @@ function navbar(theme, ownerState) {
       transparentNavbar || absolute
         ? `none`
         : `${linearGradient(
-            gradients.navbar.main,
-            gradients.navbar.state,
-            gradients.navbar.deg
-          )} !importants`,
+          gradients.navbar.main,
+          gradients.navbar.state,
+          gradients.navbar.deg
+        )} !importants`,
 
     color: () => {
       let color;

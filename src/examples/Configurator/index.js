@@ -1,20 +1,4 @@
-/*!
 
-=========================================================
-* Vision UI Free React - v1.0.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/vision-ui-free-react
-* Copyright 2021 Creative Tim (https://www.creative-tim.com/)
-* Licensed under MIT (https://github.com/creativetimofficial/vision-ui-free-react/blob/master LICENSE.md)
-
-* Design and Coded by Simmmple & Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 
 import { useState, useEffect } from "react";
 
@@ -31,7 +15,7 @@ import Icon from "@mui/material/Icon";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import FacebookIcon from "@mui/icons-material/Facebook";
 
-// Vision UI Dashboard React components
+// Khoja Connect components
 import VuiBox from "components/VuiBox";
 import VuiTypography from "components/VuiTypography";
 import VuiButton from "components/VuiButton";
@@ -40,7 +24,7 @@ import VuiSwitch from "components/VuiSwitch";
 // Custom styles for the Configurator
 import ConfiguratorRoot from "examples/Configurator/ConfiguratorRoot";
 
-// Vision UI Dashboard React context
+// Khoja Connect context
 import {
   useVisionUIController,
   setOpenConfigurator,
@@ -103,7 +87,7 @@ function Configurator() {
       >
         <VuiBox>
           <VuiTypography color="white" variant="h5" fontWeight="bold">
-            Vision UI Configurator
+            Khoja Connect Configurator
           </VuiTypography>
           <VuiTypography variant="body2" color="white" fontWeight="bold">
             See our dashboard options.
@@ -216,7 +200,7 @@ function Configurator() {
 
         <Divider light />
 
-        <VuiBox mt={3} mb={2}>
+        {/* <VuiBox mt={3} mb={2}>
           <VuiBox mb={2}>
             <VuiButton
               component={Link}
@@ -284,7 +268,7 @@ function Configurator() {
               &nbsp; Share
             </VuiButton>
           </VuiBox>
-        </VuiBox>
+        </VuiBox> */}
       </VuiBox>
     </ConfiguratorRoot>
   );
